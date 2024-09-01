@@ -1,0 +1,4 @@
+gpxpy
+pandas
+opencv-python-headless
+PyQt5
